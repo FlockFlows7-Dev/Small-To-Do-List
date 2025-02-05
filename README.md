@@ -1,4 +1,4 @@
-# C# Shop
+# C# To do list
 
 A simple C# console app that allows the user to manage and edit up to three tasks. Tasks are saved in text files.
 
